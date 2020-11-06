@@ -9,3 +9,5 @@
 ## Terrain 
 - Con click se agrega y con ```click +Shift``` se borra
 - trabajar con el size de las texturas y mejor la vista de los escenarios.
+## Doc Oficial
+- [Documentacion oficial](https://docs.unity3d.com/es/530/Manual/class-PhysicMaterial.html)
